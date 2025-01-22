@@ -16,7 +16,6 @@ This project automates marketing campaigns with features such as scheduling, ret
 
 ### Prerequisites
 
-- Node.js (>=14.x)
 - PostgreSQL (installed and running)
   
 ### Steps to Install
